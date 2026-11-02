@@ -1,0 +1,14 @@
+# Nishant Kumar
+
+> Nishant Kumar is a DevOps and Go developer from Delhi, India. He is pursuing a Bachelor of Computer Applications (BCA) at the Institute of Innovation in Technology and Management (IITM), affiliated to Guru Gobind Singh Indraprastha University (GGSIPU), with a CGPA of 9.16/10.
+
+## Links
+- [Portfolio](https://kumarnishant.me/): Experience, projects and skills
+- [GitHub](https://github.com/devnishanthub): Source code
+- [LinkedIn](https://linkedin.com/in/kumarnishantme/): Professional profile
+
+## Summary
+- Role: DevOps and Go developer; Software Development Intern at CCRAS, Ministry of AYUSH (Jun. 2026 – Jul. 2026)
+- Projects: RAGLog (RAG-based log anomaly detection, Python, Qdrant), GoQueue (Redis-backed task queue in Go), LEMP stack automation with Ansible, URL shortener in Go and Redis
+- Skills: Go, Python, Bash, SQL, Docker, Terraform, Ansible, AWS, Azure, Jenkins, GitHub Actions, Redis, Qdrant, Prometheus, Grafana, FastAPI, Flask
+- Contact: kumar.nishant2207@gmail.com
